@@ -1,0 +1,43 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/paper-card/paper-card.html">
+
+<dom-module id="my-team">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+
+      paper-card {
+        --paper-card-header-color: #fff;
+        margin-bottom: 30px;
+      }
+    </style>
+
+    <template is="dom-repeat" items="{{items}}">
+      <paper-card heading={{item.nick}}
+                 image={{item.image}}>
+        <div class="card-content">
+          {{item.text}}
+        </div>
+      </paper-card>
+    </template>
+  </template>
+
+  <script>
+    (function() {
+      'use strict';
+
+      Polymer({
+        is: 'my-team',
+        properties: {
+          items: {
+            type: Array,
+            notify: true,
+          }
+        }
+      });
+    })();
+  </script>
+</dom-module>

@@ -1,0 +1,19 @@
+{
+  "team": [
+    {
+      "nick"  : "ruby",
+      "image" : "/images/1.jpg",
+      "text"  : "이런 버그같은 코드를 봤나"
+    },
+    {
+      "nick"  : "jk-lee",
+      "image" : "/images/2.jpg",
+      "text"  : "칼퇴근? 대한민국에 그런 달달한 것이 남아있기는 한가?"
+    },
+    {
+      "nick"  : "phil",
+      "image" : "/images/3.jpg",
+      "text"  : "저 진짜 조직을 위해 개발자처럼 살았습니다."
+    }
+  ]
+}

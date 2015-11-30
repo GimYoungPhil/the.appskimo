@@ -1,0 +1,76 @@
+{
+  "apps": [
+    {
+      "title" : "한자 공부",
+      "sub"   : "급수별한자학습/한자능력검정시험/깜빡이",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/OksYAJa4fz9cYUhJNPTONXBbCLDBG4ZhklibJVGeaQ7ZYRoqt-rAohs0jlFiuzCOvN8=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/sKmnrQd9HYNXFGRStReBc72ns-7weXhAZqk-JGyTuizSTGNXpq5TGwHbr7_AWwOm9CTh=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.hanja"
+    },
+    {
+      "title" : "일본어 쓰기",
+      "sub"   : "히라가나/가타카나/JLPT 칸지/깜빡이",
+      "type"  : "교육",
+      "icon"  : "https://lh6.ggpht.com/VHMZtzAyFRoDHkPDUyVuqSgqNju63LB4EKk1SrkAM4oIlPDqUpsSDOLO4r7vZPzRZHjs=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/r4G3TXv1SNJF4tIVkubtndtYpyzqwv4-8UoI5gIZl4dfwSSdnaM9NM8rUXL6bvCsYOI=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.japanese"
+    },
+    {
+      "title" : "영어회화",
+      "sub"   : "미국인이 가장 많이 쓰는 영어문장",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/qpNf_0T8Bn3a05n-cF-wZESakMHmu11IlM2J0JQ-fX8ygtF-HHDB4MPg81J2utlJT1c=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/XoUh_ApExSzaMUI-EiW1nfO2U-EDhf6xZQACUlw8Yd2nSVARe9zDGIAWGXSNUGsaITom=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.evocab.asentence"
+    },
+    {
+      "title" : "초등 영단어 교육부선정 800",
+      "sub"   : "깜빡이영어",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/GFnU1-CRqXoPdxagrK3IkybijuoLIeGVZoRQSo7-KRtdqdKBEvjV-oS_eaGgo-3U3P3R=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/zsrGta9uC2ZL1Z7EAmh8yZMgIghoKCR4vatAcrLGU7HurWOBAMmvuMaPwV1jb959iA=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.evocab.el800"
+    },
+    {
+      "title" : "고등 영단어 필수 900",
+      "sub"   : "깜빡이영어",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/ESu7HD96mX2Ce1s0JQGK-XuTYUTLvjsmKH9t4jK86i9u3pQuUzrs38h_oqmywncBdoE=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/PprOCOA0C8s8rEI5AD7HTjsXy7q8iqpKOJIoKSP2eTo15bPan3BvyOHoUjlISqtXgw=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.evocab.hgverbs900"
+    },
+    {
+      "title" : "중학 영단어 필수 1100",
+      "sub"   : "깜빡이영어",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/ycyf9A6tERnUVD8Y-mmfnXl1kOKd7uaWAHHghbj10V64MtrSIuydDbPj6OH1qgXk_ng=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/Bjv46khAzgaR3A-KRyQilshsCEQxTTnLHiT5FsucF2vyYRe7yvmpXxmEyNfimUR6dw=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.evocab.mdverbs1100"
+    },
+    {
+      "title" : "영단어 마스터리",
+      "sub"   : "영어단어 암기/게임/깜빡이영어",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/1GsAaRAlTqjPe5PIYh6JM-I5Y9B2KbpUDJ3sdJQN-hb0JPDBBV1Zaj8v5fsdindfaA=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/9KarI0giQlLW1kcfdDaG5_4W07yhNKR6kRWEkcOq4ri1q0vKy36hmc0VgujOFwoVpg=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.evocab"
+    },
+    {
+      "title" : "수능 영단어 필수 1200",
+      "sub"   : "깜빡이영어",
+      "type"  : "교육",
+      "icon"  : "https://lh3.googleusercontent.com/5KtMIklNmpYJnkwySEP13npFMBYjJCf1cQtu3vAbYdiZGZVIdlvZcxQF6KVtNNkjpw=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/QDQHUK0zmMxjDhzawqf9kSlKKP4s_oTc35AM0qC-j7RYYb_xNOh6rgLbSpOXNId2Moxn=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.app.evocab.csat1200"
+    },
+    {
+      "title" : "서울시 문화재",
+      "sub"   : "급수별한자학습/한자능력검정시험/깜빡이",
+      "type"  : "교육",
+      "icon"  : "https://lh4.ggpht.com/vUkbi8VvbU9L5qDQf_d1T0Um0kjqQjh8kCShea7ONs5e7cXF6fr784lQkIIrLc5m8Q=w300-rw",
+      "image" : "https://lh3.googleusercontent.com/2sOhac7tPfHqvFuZWkX8aYcmqYNfno9KDx14AAeXF6oxFor_ueuXBRuWifbWW0KuPjLd=h900-rw",
+      "link"  : "https://play.google.com/store/apps/details?id=com.appskimo.seoul.culturalassets"
+    }
+  ]
+}

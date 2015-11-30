@@ -1,0 +1,33 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../my-app/my-app.html">
+
+<dom-module id="my-list">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+
+    <template is="dom-repeat" items="{{items}}">
+      <my-app app={{item}}></my-app>
+    </template>
+  </template>
+
+  <script>
+    (function() {
+      'use strict';
+
+      Polymer({
+        is: 'my-list',
+        properties: {
+          items: {
+            type: Array,
+            notify: true,
+          }
+        }
+      });
+    })();
+  </script>
+</dom-module>

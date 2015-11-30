@@ -1,0 +1,50 @@
+
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel="import" href="../../bower_components/paper-card/paper-card.html">
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+
+<dom-module id="my-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+
+      paper-card {
+        margin-bottom: 20px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #000;
+      }
+    </style>
+
+    <paper-card heading={{app.title}}>
+      <img src={{app.icon}}>
+      <div class="card-content">
+        {{app.sub}}
+      </div>
+      <div class="card-actions">
+        <a href={{app.link}} target="_blank">
+          <paper-icon-button icon="my-icons:play-arrow"></paper-icon-button>
+        </a>
+      </div>
+   </paper-card>
+  </template>
+
+  <script>
+    (function() {
+      'use strict';
+
+      Polymer({
+        is: 'my-app',
+        properties: {
+          app: {
+            type: Object
+          }
+        }
+      });
+    })();
+  </script>
+</dom-module>
